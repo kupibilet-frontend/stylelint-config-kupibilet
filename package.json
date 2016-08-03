@@ -1,0 +1,31 @@
+{
+  "name": "stylelint-config-kupibilet",
+  "version": "1.0.0",
+  "description": "Stylelint config for kupibilet.ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kupibiletdev/stylelint-config-kupibilet.git"
+  },
+  "keywords": [
+    "stylelint",
+    "lint",
+    "linter",
+    "css"
+  ],
+  "author": "Kupibilet team (http://kupibilet.ru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kupibiletdev/stylelint-config-kupibilet/issues"
+  },
+  "homepage": "https://github.com/kupibiletdev/stylelint-config-kupibilet#readme",
+  "dependencies": {
+    "stylelint-config-standard": "^12.0.0"
+  },
+  "bin": {
+    "stylelint-update": "./install.sh"
+  }
+}
