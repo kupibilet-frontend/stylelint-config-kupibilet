@@ -2,5 +2,5 @@
 
 (
   export PKG=stylelint-config-standard;
-  npm info "$PKG" peerDependencies --json | command sed 's/[\{\},]//g ; s/: /@/g' | xargs npm install --save
+  node -pe 'JSON.stringify(JSON.parse(process.argv[1]).data)' "$(yarn info "$PKG" peerDependencies --json)" | command sed 's/[\{\},]//g ; s/:/@/g' | xargs yarn add
 )
