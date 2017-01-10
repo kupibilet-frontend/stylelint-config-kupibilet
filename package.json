@@ -4,7 +4,8 @@
   "description": "Stylelint config for kupibilet.ru",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "postversion": "git push --follow-tags"
   },
   "repository": {
     "type": "git",
