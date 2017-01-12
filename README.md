@@ -15,11 +15,11 @@ npm i stylelint-config-kupibilet --save-dev
 
 Add `"extends": "kupibilet"` to your .stylelintrc
 
-[travis-img]: https://travis-ci.org/kupibiletdev/stylelint-config-kupibilet.svg
-[travis-url]: https://travis-ci.org/kupibiletdev/stylelint-config-kupibilet
-[daviddm-img]: https://david-dm.org/kupibiletdev/stylelint-config-kupibilet.svg
-[daviddm-url]: https://david-dm.org/kupibiletdev/stylelint-config-kupibilet
-[daviddm-dev-img]: https://david-dm.org/kupibiletdev/stylelint-config-kupibilet/dev-status.svg
-[daviddm-dev-url]: https://david-dm.org/kupibiletdev/stylelint-config-kupibilet#info=devDependencies)
+[travis-img]: https://travis-ci.org/kupibilet-frontend/stylelint-config-kupibilet.svg
+[travis-url]: https://travis-ci.org/kupibilet-frontend/stylelint-config-kupibilet
+[daviddm-img]: https://david-dm.org/kupibilet-frontend/stylelint-config-kupibilet.svg
+[daviddm-url]: https://david-dm.org/kupibilet-frontend/stylelint-config-kupibilet
+[daviddm-dev-img]: https://david-dm.org/kupibilet-frontend/stylelint-config-kupibilet/dev-status.svg
+[daviddm-dev-url]: https://david-dm.org/kupibilet-frontend/stylelint-config-kupibilet#info=devDependencies)
 [npm-img]: https://badge.fury.io/js/stylelint-config-kupibilet.svg
 [npm-url]: https://www.npmjs.com/package/stylelint-config-kupibilet
