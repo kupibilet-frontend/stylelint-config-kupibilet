@@ -12,5 +12,6 @@ module.exports = {
     "declaration-block-semicolon-space-after": null,
     "declaration-block-semicolon-space-before": null,
     "declaration-block-trailing-semicolon": null,
+    "property-no-unknown": [true, { ignoreProperties: ["composes"] }],
   }
 }
