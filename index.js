@@ -13,7 +13,7 @@ module.exports = {
     "declaration-block-semicolon-space-before": null,
     "declaration-block-trailing-semicolon": null,
     "property-no-unknown": [true, { ignoreProperties: ["composes"] }],
-    "selector-pseudo-class-no-unknown": [true, { "ignorePseudoClasses": ["global"] }],
-    "selector-pseudo-element-no-unknown": [true, { "ignorePseudoElements": ["global"] }],
+    "selector-pseudo-class-no-unknown": [true, { ignorePseudoClasses: ["global"] }],
+    "selector-pseudo-element-no-unknown": [true, { ignorePseudoElements: ["global"] }],
   },
 }
