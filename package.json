@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/kupibilet-frontend/stylelint-config-kupibilet#readme",
   "dependencies": {
-    "stylelint": "^7.6.0",
+    "stylelint": "^8.3.1",
     "stylelint-config-standard": "^16.0.0"
   }
 }
